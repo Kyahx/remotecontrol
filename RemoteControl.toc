@@ -1,0 +1,7 @@
+## Interface: 30000
+## Title: RemoteControl
+## Notes: Remote control for multi-boxing
+## Author: Kyahx
+## Version: 1.0
+
+RemoteControl.lua
